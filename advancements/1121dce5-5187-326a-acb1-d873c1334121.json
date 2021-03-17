@@ -83,6 +83,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2021-03-16 14:02:36 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_sand": "2021-03-15 02:07:06 -0300"
@@ -179,6 +185,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2021-03-17 00:22:22 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2021-03-15 02:22:08 -0300"
@@ -209,9 +221,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2021-03-16 11:53:27 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2021-03-14 19:40:48 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2021-03-16 11:52:55 -0300"
     },
     "done": true
   },
@@ -395,6 +419,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2021-03-16 12:39:33 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2021-03-14 19:37:26 -0300"
@@ -490,11 +520,14 @@
       "minecraft:pillager": "2021-03-14 20:01:30 -0300",
       "minecraft:skeleton": "2021-03-14 19:49:16 -0300",
       "minecraft:ghast": "2021-03-14 23:19:19 -0300",
+      "minecraft:hoglin": "2021-03-16 14:04:37 -0300",
       "minecraft:magma_cube": "2021-03-14 23:28:38 -0300",
       "minecraft:spider": "2021-03-14 20:21:25 -0300",
       "minecraft:creeper": "2021-03-14 20:13:50 -0300",
       "minecraft:phantom": "2021-03-15 00:40:35 -0300",
+      "minecraft:cave_spider": "2021-03-16 12:10:01 -0300",
       "minecraft:enderman": "2021-03-14 23:18:21 -0300",
+      "minecraft:silverfish": "2021-03-16 12:09:42 -0300",
       "minecraft:zombie": "2021-03-14 20:17:19 -0300",
       "minecraft:zombie_villager": "2021-03-15 02:09:13 -0300"
     },
@@ -659,6 +692,12 @@
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_sand": "2021-03-15 02:07:06 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2021-03-16 13:11:46 -0300"
     },
     "done": true
   },
@@ -1049,6 +1088,7 @@
       "minecraft:deep_frozen_ocean": "2021-03-15 02:44:34 -0300",
       "minecraft:beach": "2021-03-15 02:43:12 -0300",
       "minecraft:river": "2021-03-14 19:34:09 -0300",
+      "minecraft:wooded_mountains": "2021-03-16 11:51:18 -0300",
       "minecraft:wooded_hills": "2021-03-14 19:40:07 -0300",
       "minecraft:swamp": "2021-03-14 23:48:00 -0300",
       "minecraft:plains": "2021-03-14 19:39:49 -0300"
@@ -1219,6 +1259,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2021-03-16 14:02:48 -0300",
       "minecraft:nether_wastes": "2021-03-14 23:24:52 -0300",
       "minecraft:warped_forest": "2021-03-14 23:17:31 -0300",
       "minecraft:basalt_deltas": "2021-03-14 23:25:43 -0300"
@@ -1872,9 +1913,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2021-03-16 13:11:46 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2021-03-15 23:13:04 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2021-03-16 11:52:55 -0300"
     },
     "done": true
   },
@@ -1899,6 +1952,12 @@
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2021-03-15 00:15:34 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2021-03-16 13:11:46 -0300"
     },
     "done": true
   },
@@ -2208,6 +2267,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2021-03-16 14:02:36 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2021-03-14 23:15:26 -0300"
@@ -2349,6 +2414,12 @@
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2021-03-16 00:24:58 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2021-03-16 11:52:55 -0300"
     },
     "done": true
   },
