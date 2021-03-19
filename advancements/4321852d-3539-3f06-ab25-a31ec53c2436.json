@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2021-03-18 18:21:15 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2021-03-14 16:21:57 -0300"
@@ -77,6 +83,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_blackstone_bricks": "2021-03-18 19:13:09 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2021-03-18 17:45:41 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2021-03-14 16:21:57 -0300"
@@ -110,6 +128,12 @@
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2021-03-14 22:50:54 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2021-03-18 19:13:09 -0300"
     },
     "done": true
   },
@@ -236,6 +260,12 @@
   "minecraft:recipes/misc/flower_banner_pattern": {
     "criteria": {
       "has_oxeye_daisy": "2021-03-15 02:13:38 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2021-03-18 19:13:09 -0300"
     },
     "done": true
   },
@@ -467,6 +497,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2021-03-18 18:17:36 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2021-03-14 16:15:31 -0300"
@@ -545,6 +581,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2021-03-18 19:13:09 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2021-03-14 17:12:36 -0300"
@@ -555,11 +597,14 @@
     "criteria": {
       "minecraft:pillager": "2021-03-15 00:31:11 -0300",
       "minecraft:skeleton": "2021-03-14 16:16:06 -0300",
+      "minecraft:magma_cube": "2021-03-18 19:35:44 -0300",
       "minecraft:spider": "2021-03-14 17:11:52 -0300",
+      "minecraft:piglin_brute": "2021-03-18 19:12:17 -0300",
       "minecraft:creeper": "2021-03-14 18:22:38 -0300",
       "minecraft:phantom": "2021-03-15 00:35:20 -0300",
       "minecraft:witch": "2021-03-14 21:10:08 -0300",
       "minecraft:cave_spider": "2021-03-14 16:24:16 -0300",
+      "minecraft:piglin": "2021-03-18 19:33:16 -0300",
       "minecraft:enderman": "2021-03-14 21:43:06 -0300",
       "minecraft:zombie": "2021-03-14 16:16:23 -0300",
       "minecraft:drowned": "2021-03-14 23:59:43 -0300"
@@ -599,6 +644,12 @@
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2021-03-14 22:50:54 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2021-03-18 17:48:22 -0300"
     },
     "done": true
   },
@@ -719,6 +770,12 @@
   "minecraft:recipes/misc/coal_from_blasting": {
     "criteria": {
       "has_coal_ore": "2021-03-16 00:01:42 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2021-03-18 19:14:28 -0300"
     },
     "done": true
   },
@@ -869,6 +926,12 @@
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2021-03-14 20:06:07 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2021-03-18 19:13:09 -0300"
     },
     "done": true
   },
@@ -1162,8 +1225,11 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2021-03-18 22:03:44 -0300",
       "minecraft:forest": "2021-03-14 16:08:05 -0300",
       "minecraft:mountains": "2021-03-14 22:18:25 -0300",
+      "minecraft:taiga": "2021-03-18 22:05:19 -0300",
+      "minecraft:beach": "2021-03-18 22:03:41 -0300",
       "minecraft:dark_forest": "2021-03-14 16:29:50 -0300",
       "minecraft:river": "2021-03-14 16:07:59 -0300",
       "minecraft:wooded_mountains": "2021-03-15 13:09:51 -0300",
@@ -1270,6 +1336,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2021-03-18 19:09:58 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_tulip": {
     "criteria": {
       "has_red_flower": "2021-03-15 13:51:31 -0300"
@@ -1356,11 +1428,13 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2021-03-18 18:11:39 -0300",
       "minecraft:nether_wastes": "2021-03-14 23:24:20 -0300",
+      "minecraft:soul_sand_valley": "2021-03-18 19:09:09 -0300",
       "minecraft:warped_forest": "2021-03-14 23:17:26 -0300",
       "minecraft:basalt_deltas": "2021-03-16 01:26:13 -0300"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
@@ -1485,6 +1559,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2021-03-14 17:49:31 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2021-03-18 17:48:22 -0300"
     },
     "done": true
   },
@@ -1614,6 +1694,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2021-03-18 17:48:22 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_obsidian": "2021-03-14 21:49:34 -0300"
@@ -1667,6 +1753,7 @@
       "potato": "2021-03-17 21:11:55 -0300",
       "cooked_cod": "2021-03-15 16:19:39 -0300",
       "pumpkin_pie": "2021-03-15 18:20:22 -0300",
+      "bread": "2021-03-18 22:23:39 -0300",
       "cooked_chicken": "2021-03-14 20:09:25 -0300",
       "carrot": "2021-03-15 18:34:07 -0300"
     },
@@ -1675,6 +1762,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2021-03-14 16:08:49 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2021-03-18 18:21:15 -0300"
     },
     "done": true
   },
@@ -1705,6 +1798,12 @@
   "minecraft:recipes/building_blocks/diorite_slab": {
     "criteria": {
       "has_diorite": "2021-03-14 16:25:30 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2021-03-18 17:48:22 -0300"
     },
     "done": true
   },
@@ -1913,6 +2012,12 @@
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2021-03-14 17:14:47 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2021-03-18 17:45:41 -0300"
     },
     "done": true
   },
@@ -2174,6 +2279,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2021-03-18 19:13:09 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2021-03-14 16:08:34 -0300"
@@ -2207,6 +2318,12 @@
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-03-14 16:23:33 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2021-03-18 17:45:41 -0300"
     },
     "done": true
   },
@@ -2282,6 +2399,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2021-03-18 17:48:22 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2021-03-14 16:54:21 -0300"
@@ -2291,6 +2414,12 @@
   "minecraft:recipes/building_blocks/bricks": {
     "criteria": {
       "has_brick": "2021-03-17 21:08:40 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2021-03-18 17:48:22 -0300"
     },
     "done": true
   },
@@ -2570,6 +2699,12 @@
     },
     "done": true
   },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2021-03-18 19:14:21 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2021-03-15 01:39:24 -0300"
@@ -2591,6 +2726,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2021-03-14 16:08:34 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2021-03-18 17:57:31 -0300"
     },
     "done": true
   },
@@ -2747,6 +2888,12 @@
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2021-03-14 17:12:36 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2021-03-18 19:13:09 -0300"
     },
     "done": true
   },
