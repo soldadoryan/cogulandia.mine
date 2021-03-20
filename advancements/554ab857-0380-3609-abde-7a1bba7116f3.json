@@ -491,6 +491,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2021-03-20 01:52:57 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2021-03-16 01:46:48 -0300"
@@ -566,6 +572,12 @@
   "minecraft:recipes/building_blocks/quartz_stairs": {
     "criteria": {
       "has_quartz_block": "2021-03-15 23:55:42 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab": {
+    "criteria": {
+      "has_polished_diorite": "2021-03-19 21:34:30 -0300"
     },
     "done": true
   },
@@ -664,9 +676,12 @@
       "minecraft:creeper": "2021-03-14 20:13:47 -0300",
       "minecraft:slime": "2021-03-17 22:01:31 -0300",
       "minecraft:phantom": "2021-03-15 00:54:57 -0300",
+      "minecraft:witch": "2021-03-20 01:37:01 -0300",
+      "minecraft:wither_skeleton": "2021-03-19 21:11:07 -0300",
       "minecraft:cave_spider": "2021-03-14 16:39:32 -0300",
       "minecraft:piglin": "2021-03-18 22:24:39 -0300",
       "minecraft:enderman": "2021-03-14 23:20:11 -0300",
+      "minecraft:silverfish": "2021-03-20 01:54:24 -0300",
       "minecraft:zombie": "2021-03-14 16:15:38 -0300",
       "minecraft:zombie_villager": "2021-03-14 16:15:56 -0300"
     },
@@ -798,6 +813,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2021-03-19 21:34:30 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2021-03-15 23:55:42 -0300"
@@ -825,6 +846,12 @@
   "minecraft:recipes/building_blocks/smooth_quartz": {
     "criteria": {
       "has_quartz_block": "2021-03-15 23:55:42 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs": {
+    "criteria": {
+      "has_polished_diorite": "2021-03-19 21:34:30 -0300"
     },
     "done": true
   },
@@ -879,6 +906,12 @@
   "minecraft:recipes/misc/coal_from_blasting": {
     "criteria": {
       "has_coal_ore": "2021-03-15 18:48:27 -0300"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2021-03-20 01:53:03 -0300"
     },
     "done": true
   },
@@ -999,6 +1032,12 @@
   "minecraft:recipes/building_blocks/crimson_slab": {
     "criteria": {
       "has_planks": "2021-03-17 20:39:39 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2021-03-19 21:34:30 -0300"
     },
     "done": true
   },
@@ -1412,6 +1451,7 @@
       "minecraft:taiga": "2021-03-18 22:05:14 -0300",
       "minecraft:deep_cold_ocean": "2021-03-15 02:43:06 -0300",
       "minecraft:deep_frozen_ocean": "2021-03-15 02:42:59 -0300",
+      "minecraft:snowy_beach": "2021-03-20 01:49:31 -0300",
       "minecraft:beach": "2021-03-15 02:39:01 -0300",
       "minecraft:dark_forest": "2021-03-14 16:09:45 -0300",
       "minecraft:river": "2021-03-14 16:04:30 -0300",
@@ -1455,6 +1495,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2021-03-14 16:05:52 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2021-03-20 01:52:57 -0300"
     },
     "done": true
   },
@@ -1947,6 +1993,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2021-03-20 02:07:17 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2021-03-15 23:55:42 -0300"
@@ -1994,6 +2046,7 @@
       "cooked_porkchop": "2021-03-14 16:37:25 -0300",
       "cooked_mutton": "2021-03-14 17:18:03 -0300",
       "cooked_beef": "2021-03-14 16:13:07 -0300",
+      "beef": "2021-03-19 20:21:26 -0300",
       "porkchop": "2021-03-15 02:47:01 -0300",
       "apple": "2021-03-18 20:29:26 -0300",
       "pumpkin_pie": "2021-03-18 20:32:13 -0300",
@@ -2071,6 +2124,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2021-03-20 01:52:57 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall": {
     "criteria": {
       "has_granite": "2021-03-14 17:59:48 -0300"
@@ -2098,6 +2157,12 @@
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-03-14 21:48:11 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2021-03-19 21:34:30 -0300"
     },
     "done": true
   },
@@ -2236,6 +2301,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2021-03-20 02:07:17 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2021-03-14 16:05:05 -0300"
@@ -2275,6 +2346,12 @@
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2021-03-14 16:07:40 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2021-03-20 01:52:57 -0300"
     },
     "done": true
   },
@@ -2452,9 +2529,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2021-03-19 12:43:28 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-03-14 20:34:53 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2021-03-20 01:30:08 -0300"
     },
     "done": true
   },
@@ -2632,9 +2721,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2021-03-20 01:52:57 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2021-03-14 17:25:48 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2021-03-19 21:34:30 -0300"
     },
     "done": true
   },
@@ -3013,6 +3114,12 @@
   "minecraft:recipes/redstone/dark_oak_pressure_plate": {
     "criteria": {
       "has_planks": "2021-03-14 16:37:08 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2021-03-20 01:52:57 -0300"
     },
     "done": true
   },
