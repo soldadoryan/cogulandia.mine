@@ -730,6 +730,7 @@
       "minecraft:creeper": "2021-03-14 20:13:47 -0300",
       "minecraft:slime": "2021-03-17 22:01:31 -0300",
       "minecraft:phantom": "2021-03-15 00:54:57 -0300",
+      "minecraft:zombified_piglin": "2021-03-23 00:02:37 -0300",
       "minecraft:witch": "2021-03-20 01:37:01 -0300",
       "minecraft:wither_skeleton": "2021-03-19 21:11:07 -0300",
       "minecraft:shulker": "2021-03-21 20:48:05 -0300",
@@ -1980,6 +1981,12 @@
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2021-03-14 16:05:48 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2021-03-22 22:07:17 -0300"
     },
     "done": true
   },

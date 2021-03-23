@@ -383,6 +383,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2021-03-22 21:43:15 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2021-03-17 20:07:46 -0300"
@@ -1782,6 +1788,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2021-03-22 22:07:17 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2021-03-17 20:31:21 -0300"
@@ -1976,6 +1988,7 @@
       "chorus_fruit": "2021-03-21 20:57:58 -0300",
       "baked_potato": "2021-03-18 18:46:35 -0300",
       "apple": "2021-03-17 22:18:29 -0300",
+      "potato": "2021-03-22 21:52:40 -0300",
       "pumpkin_pie": "2021-03-18 20:34:56 -0300",
       "bread": "2021-03-18 19:05:00 -0300",
       "golden_apple": "2021-03-21 18:56:01 -0300",
