@@ -539,6 +539,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2021-03-22 17:50:25 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2021-03-14 17:23:46 -0300"
@@ -732,6 +738,7 @@
       "minecraft:enderman": "2021-03-14 23:20:11 -0300",
       "minecraft:silverfish": "2021-03-20 01:54:24 -0300",
       "minecraft:zombie": "2021-03-14 16:15:38 -0300",
+      "minecraft:drowned": "2021-03-22 18:08:33 -0300",
       "minecraft:zombie_villager": "2021-03-14 16:15:56 -0300"
     },
     "done": false
@@ -1486,6 +1493,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2021-03-22 19:59:46 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2021-03-14 16:05:52 -0300"
@@ -1661,6 +1674,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2021-03-22 18:07:25 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
     "criteria": {
       "has_red_flower": "2021-03-14 17:37:53 -0300"
@@ -1748,6 +1767,12 @@
   "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_orange_dye": "2021-03-22 01:55:06 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2021-03-22 17:50:25 -0300"
     },
     "done": true
   },
@@ -1928,6 +1953,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2021-03-22 17:50:25 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2021-03-15 20:00:07 -0300"
@@ -1985,6 +2016,12 @@
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2021-03-14 16:07:40 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2021-03-22 17:50:25 -0300"
     },
     "done": true
   },
@@ -2711,6 +2748,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_black_dye": "2021-03-22 20:05:18 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2021-03-14 18:22:28 -0300"
@@ -2720,6 +2763,12 @@
   "minecraft:recipes/building_blocks/jack_o_lantern": {
     "criteria": {
       "has_carved_pumpkin": "2021-03-14 19:58:04 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2021-03-22 19:59:46 -0300"
     },
     "done": true
   },
@@ -3104,6 +3153,12 @@
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2021-03-14 22:22:35 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2021-03-22 19:59:46 -0300"
     },
     "done": true
   },
@@ -3536,6 +3591,12 @@
   "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
     "criteria": {
       "has_purpur_block": "2021-03-21 20:55:34 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_the_recipe": "2021-03-22 17:41:39 -0300"
     },
     "done": true
   },
