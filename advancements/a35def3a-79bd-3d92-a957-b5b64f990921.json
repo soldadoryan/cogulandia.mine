@@ -1296,9 +1296,11 @@
     "criteria": {
       "minecraft:forest": "2021-03-15 15:22:33 -0300",
       "minecraft:mountains": "2021-03-15 15:23:13 -0300",
+      "minecraft:birch_forest": "2021-03-23 23:55:40 -0300",
       "minecraft:beach": "2021-03-21 19:45:45 -0300",
       "minecraft:dark_forest": "2021-03-15 15:19:05 -0300",
       "minecraft:river": "2021-03-15 15:21:49 -0300",
+      "minecraft:birch_forest_hills": "2021-03-23 23:55:47 -0300",
       "minecraft:wooded_mountains": "2021-03-22 22:01:25 -0300",
       "minecraft:wooded_hills": "2021-03-15 15:21:57 -0300",
       "minecraft:swamp": "2021-03-15 20:22:14 -0300",
@@ -1825,6 +1827,7 @@
       "cooked_mutton": "2021-03-19 21:16:13 -0300",
       "cooked_beef": "2021-03-15 16:16:28 -0300",
       "baked_potato": "2021-03-23 16:49:49 -0300",
+      "porkchop": "2021-03-24 00:01:27 -0300",
       "apple": "2021-03-18 01:41:14 -0300",
       "potato": "2021-03-23 00:59:01 -0300",
       "pumpkin_pie": "2021-03-17 23:46:28 -0300",
@@ -2256,6 +2259,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2021-03-23 22:53:39 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-03-21 19:22:28 -0300"
@@ -2283,6 +2292,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2021-03-18 17:58:18 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2021-03-23 22:53:39 -0300"
     },
     "done": true
   },
@@ -2349,6 +2364,12 @@
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2021-03-16 01:41:26 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2021-03-23 23:54:44 -0300"
     },
     "done": true
   },
@@ -2736,6 +2757,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2021-03-24 00:27:45 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2021-03-15 15:36:17 -0300"
@@ -2817,6 +2844,12 @@
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2021-03-23 01:02:29 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2021-03-23 23:54:44 -0300"
     },
     "done": true
   },
