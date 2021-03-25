@@ -233,6 +233,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2021-03-25 00:30:32 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2021-03-14 16:42:22 -0300"
@@ -263,6 +269,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_pressure_plate": {
+    "criteria": {
+      "has_planks": "2021-03-25 02:34:52 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2021-03-14 20:44:43 -0300"
@@ -290,6 +302,12 @@
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2021-03-14 17:11:58 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_fence": {
+    "criteria": {
+      "has_planks": "2021-03-25 02:34:52 -0300"
     },
     "done": true
   },
@@ -401,6 +419,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2021-03-24 18:39:01 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_brick_stonecutting": {
     "criteria": {
       "has_end_stone_brick": "2021-03-23 01:41:35 -0300"
@@ -464,6 +488,12 @@
   "minecraft:recipes/redstone/warped_fence_gate": {
     "criteria": {
       "has_planks": "2021-03-14 23:56:08 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_button": {
+    "criteria": {
+      "has_planks": "2021-03-25 02:34:52 -0300"
     },
     "done": true
   },
@@ -605,6 +635,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2021-03-25 00:30:32 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_sign": {
     "criteria": {
       "has_birch_planks": "2021-03-14 20:44:20 -0300"
@@ -686,6 +722,7 @@
       "minecraft:spider": "2021-03-14 17:11:52 -0300",
       "minecraft:piglin_brute": "2021-03-18 19:12:17 -0300",
       "minecraft:creeper": "2021-03-14 18:22:38 -0300",
+      "minecraft:slime": "2021-03-24 17:56:28 -0300",
       "minecraft:phantom": "2021-03-15 00:35:20 -0300",
       "minecraft:witch": "2021-03-14 21:10:08 -0300",
       "minecraft:wither_skeleton": "2021-03-19 21:16:04 -0300",
@@ -772,9 +809,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/crimson_sign": {
+    "criteria": {
+      "has_crimson_planks": "2021-03-25 02:34:52 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_red_flower": "2021-03-14 18:03:08 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2021-03-25 00:30:32 -0300"
     },
     "done": true
   },
@@ -1000,6 +1049,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/crimson_slab": {
+    "criteria": {
+      "has_planks": "2021-03-25 02:34:52 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2021-03-24 02:32:44 -0300"
@@ -1036,6 +1091,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/crimson_stairs": {
+    "criteria": {
+      "has_planks": "2021-03-25 02:34:52 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_fence_gate": {
+    "criteria": {
+      "has_planks": "2021-03-25 02:34:52 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_red_flower": "2021-03-20 02:07:47 -0300"
@@ -1063,6 +1130,12 @@
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_yellow_flower": "2021-03-14 18:14:05 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2021-03-24 18:39:01 -0300"
     },
     "done": true
   },
@@ -1354,6 +1427,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2021-03-24 17:56:41 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2021-03-14 16:15:31 -0300"
@@ -1512,6 +1591,12 @@
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2021-03-14 16:15:31 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2021-03-24 23:13:38 -0300"
     },
     "done": true
   },
@@ -1855,6 +1940,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2021-03-25 00:30:32 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2021-03-14 23:00:29 -0300"
@@ -2177,6 +2268,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cyan_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2021-03-25 00:30:32 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/target": {
     "criteria": {
       "has_redstone": "2021-03-14 17:14:47 -0300"
@@ -2210,6 +2307,12 @@
   "minecraft:recipes/building_blocks/orange_wool": {
     "criteria": {
       "has_white_wool": "2021-03-14 16:54:21 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_door": {
+    "criteria": {
+      "has_planks": "2021-03-25 02:34:52 -0300"
     },
     "done": true
   },
@@ -2357,6 +2460,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_trapdoor": {
+    "criteria": {
+      "has_planks": "2021-03-25 02:34:52 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2021-03-14 21:00:06 -0300"
@@ -2489,6 +2598,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2021-03-24 17:56:41 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2021-03-14 23:00:29 -0300"
@@ -2531,9 +2646,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/green_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2021-03-25 00:30:32 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2021-03-18 19:13:09 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2021-03-24 17:59:40 -0300"
     },
     "done": true
   },
@@ -2831,6 +2958,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2021-03-24 17:56:41 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/warped_sign": {
     "criteria": {
       "has_warped_planks": "2021-03-14 23:56:08 -0300"
@@ -2840,6 +2973,12 @@
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2021-03-14 16:14:48 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2021-03-25 00:30:32 -0300"
     },
     "done": true
   },
@@ -2957,6 +3096,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blue_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2021-03-25 00:30:32 -0300"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2021-03-20 00:48:17 -0300"
@@ -3020,6 +3165,12 @@
   "minecraft:recipes/misc/magenta_dye_from_allium": {
     "criteria": {
       "has_red_flower": "2021-03-14 18:43:27 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2021-03-24 17:59:40 -0300"
     },
     "done": true
   },
@@ -3266,6 +3417,12 @@
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2021-03-18 19:13:09 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2021-03-25 00:30:32 -0300"
     },
     "done": true
   },

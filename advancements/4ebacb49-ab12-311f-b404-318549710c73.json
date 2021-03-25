@@ -527,6 +527,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_birch_wood": {
+    "criteria": {
+      "has_log": "2021-03-24 16:22:26 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lime_dye": {
     "criteria": {
       "has_white_dye": "2021-03-14 23:53:21 -0300"
@@ -1246,6 +1252,12 @@
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2021-03-15 00:56:14 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_blue_flower": "2021-03-24 20:24:02 -0300"
     },
     "done": true
   },
@@ -2985,6 +2997,12 @@
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-03-14 16:54:13 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2021-03-24 15:41:15 -0300"
     },
     "done": true
   },
